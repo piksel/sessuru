@@ -1,0 +1,12 @@
+{
+  "name": "sessuru-reciever",
+  "version": "1.0.0",
+  "main": "main.js",
+  "repository": "https://github.com/piksel/sessuru",
+  "author": "nils måsén",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "ws": "^7.2.1"
+  }
+}
